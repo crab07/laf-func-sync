@@ -8,7 +8,7 @@
 
 ## 如何使用
 假设你已经安装了油猴插件：
-- 前往 [安装地址](https://greasyfork.org/zh-CN/scripts/464731-laf-func-sync){:target="_blank"} 一键安装
+- 前往 [安装地址](https://greasyfork.org/zh-CN/scripts/464731-laf-func-sync) 一键安装
 - 如果安装地址失效，你可以将 `tampermonkey.js` 中的内容替换到油猴编辑器中保存成一个新的脚本，就可以使用了
 
 ## 更新日志
