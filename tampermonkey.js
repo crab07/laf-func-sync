@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         laf-func-sync
-// @namespace    http://tampermonkey.net/
+// @namespace    https://laf.run/
 // @version      0.1.3
 // @description  管理Laf云函数的本地缓存
 // @author       一只蟹酱
 // @match        https://laf.run/*
 // @match        https://laf.dev/*
+// @source       https://github.com/crab07/laf-func-sync
 // @icon         https://ddb9jl-laf-func-sync.site.laf.run/laf-logo.png
 // @license      MIT
 // ==/UserScript==
