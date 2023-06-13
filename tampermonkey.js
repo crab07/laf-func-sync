@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         laf-func-sync
 // @namespace    https://laf.run/
-// @version      0.1.3
+// @version      0.1.4
 // @description  管理Laf云函数的本地缓存
 // @author       一只蟹酱
 // @match        https://laf.run/*
 // @match        https://laf.dev/*
 // @source       https://github.com/crab07/laf-func-sync
-// @icon         https://ddb9jl-laf-func-sync.site.laf.run/laf-logo.png
+// @icon         https://vv8ibw-laf-func-sync.site.laf.run/laf-logo.png
 // @license      MIT
 // ==/UserScript==
 
@@ -29,7 +29,7 @@
 ;(function () {
   'use strict';
   // var serve = 'http://localhost:8080/'
-  var serve = 'https://ddb9jl-laf-func-sync.site.laf.run/'
+  var serve = 'https://vv8ibw-laf-func-sync.site.laf.run/'
   if (location.href === serve) return
   var script = document.createElement('script')
   script.src = `${serve}app.bundle.js`
